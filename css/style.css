@@ -1,0 +1,55 @@
+.Registration{
+	width: 50%;
+	margin: 05px auto;
+}
+
+.main-form{
+	width: 100%;
+	padding: 50px;
+	background: #eee;
+	border: 2px solid red;
+}
+
+.main-form img{
+	width: 100px;	
+	margin: 0px 180px;
+}
+
+.main-form h1{
+	font-size: 20px;
+	color: red;
+	text-align: center;
+}
+
+.main-form .form-group{
+	width: 100%;
+	padding: 15px;
+}
+
+.main-form .form-group input{
+	display: block;
+	font-size: 14px;
+	line height: 24px;
+
+}
+.main-form .form-control{
+	width: 60%;
+}
+.main-form .btn-btn{
+	padding: 15px; 40px;
+	border: 2px solid #000;
+	background: #000;
+	color: #fff;
+	font-size: 16px;
+	font-weight: 600px;
+	border-radius: 10px;
+	cursor: pointer;
+}
+.main-form .btn-btn:hover{
+	letter-spacing: 4px;
+	transition: 2s;
+	border: yellow;
+	border:red;
+	background: blue;
+	color: #eee;
+}
